@@ -1,0 +1,3 @@
+# colorer
+The Colorer app is a fun activity for the youngest artists. It combines an intuitive interface and a great selection of pictures for your kid to color. The design of the app allows children to color easily even if they have never used touchscreens before. Colorer will keep any child entertained and engaged for hours! No wonder - your kids will have a great time coloring their favorite pictures and watching them come to life. And while coloring, they will learn important creative skills. Help your children to express their creativity today and enjoy watching them practice and learn!
+.
